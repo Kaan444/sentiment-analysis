@@ -10,6 +10,7 @@ Sentiment Analysis with NLTK VADER: The project employs the VADER (Valence Aware
 Data Handling and Visualization with Pandas and Matplotlib: The collected data, including ticker symbols, dates, times, and sentiment scores, are organised into a Pandas DataFrame for easy manipulation and analysis. The project uses Matplotlib to create bar charts, visually representing the average sentiment score for each ticker over time.
 
 Robust Error Handling: The project includes error handling mechanisms to manage issues such as invalid ticker symbols, network errors, or parsing failures, ensuring a smooth user experience.
+
 Frameworks and Libraries Used:
 
 Pandas: For data manipulation and analysis, organising the scraped data into structured formats.
