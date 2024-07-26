@@ -19,7 +19,7 @@ def parse_date(date_str):
         try:
             return datetime.strptime(date_str, '%Y-%m-%d').date()
         except ValueError:
-            return None  # Return None for unexpected formats
+            return None  
 
 
 def fetch_news(tickers):
